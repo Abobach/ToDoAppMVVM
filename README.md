@@ -14,8 +14,7 @@
 - `SwiftUI`
 - `MVVM Architecture`
 - `@State`, `@ObservedObject`, `@EnvironmentObject`
-- `UserDefaults` (или `CoreData`, если используешь)
-- 
+
 ## 🚀 Установка проекта
 
 ```bash
